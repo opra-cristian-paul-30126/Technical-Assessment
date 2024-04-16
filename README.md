@@ -40,3 +40,13 @@ HTTP(Hypertext Transfer Protocol) is a protocol used for transmitting hypermedia
 - There are more such as (403 Forbidden, 401 Unauthorized, etc.)
 
 ## 5. What is the difference between authorization and authentication ?
+
+### Authentication
+- Authentication is the process that verifies the identity of a user, its goal is to ensure that the user is who they claim to be before granting them access. Some authentication mechanisms include passwords, multi-factor, tokens, biometric authentication (fingerprint, face recognition), etc.
+
+### Authorization
+- Authorization is the process that determines wheter an autheticated user has the permission to access a particular resource, its goal is to ensure that users can only access the resources that they are allowed to.
+
+## 6. How would you explain to a 5-year-old how the www works ?
+
+- I think that the most simple way to explain to a 5-year-old how the www works is to picture it as a library, but instead of books, you have webpages, and instead of a librarian who you would ask about a book, you just type your question in the web browser which will give you suggestions on web pages that correlate with your question. I think comparing the www to a familiar concept for a 5-year-old like a library is a good simplified explanation.
